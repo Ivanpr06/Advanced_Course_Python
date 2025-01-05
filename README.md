@@ -1,5 +1,5 @@
 # Advanced Courses of Python 💾
-<p>In this repository you will find some courses I did by myslef trying to learn some new code of the lenguagge <b>Python</b></p>
+<p>In this repository, you will find some courses I completed by myself while trying to learn new aspects of the <b>Python</b> programming language.</p>
 
 ## 💻 Courses 
 <ul>
