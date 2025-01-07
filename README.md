@@ -5,10 +5,11 @@
 <ul>
   <li><h3>Course of Advance Programming </h3>
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
-  <p><a href="https://app.edutin.com/classroom?course_id=12398&source_id=162449">Link</a></p>
+  <p><a href="https://edutin.com/curso-de-programacion-avanzada">Link</a></p>
   </li>
   <li><h3>Course of Django</h3>
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow"> 
   <img src="https://img.shields.io/badge/Django-red?logo=Django">
+    <p><a href="https://edutin.com/curso-de-desarrollo-web">Link</a></p>
   </li>
 </ul>
