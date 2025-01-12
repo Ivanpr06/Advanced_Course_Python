@@ -7,9 +7,8 @@
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
   <p><a href="https://edutin.com/curso-de-programacion-avanzada">Link</a></p>
   </li>
-  <li><h3>Course of Django</h3>
+  <li><h3>Curso Python Principiantes [Intermedio]</h3>
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow"> 
-  <img src="https://img.shields.io/badge/Django-red?logo=Django">
     <p><a href="https://youtu.be/TbcEqkabAWU?si=9-3lGV_VgnrhxgDF">Link</a></p>
   </li>
 </ul>
