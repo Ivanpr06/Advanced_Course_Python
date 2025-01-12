@@ -10,6 +10,6 @@
   <li><h3>Course of Django</h3>
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow"> 
   <img src="https://img.shields.io/badge/Django-red?logo=Django">
-    <p><a href="https://edutin.com/curso-de-desarrollo-web">Link</a></p>
+    <p><a href="https://youtu.be/TbcEqkabAWU?si=9-3lGV_VgnrhxgDF">Link</a></p>
   </li>
 </ul>
