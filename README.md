@@ -13,4 +13,12 @@
     <p>In this course, you can find information about a MoureDev course by Brais Moure that anyone can watch on YouTube. He teaches us a large amount of useful information about Python, such as handling dates, list comprehension, lambdas, higher-order functions, displaying all types of errors in our Python code, file handling, regular expressions, and package management. Moreover, all this theory is accompanied by a ton of exercises on <a href="https://retosdeprogramacion.com/ejercicios/">Brais's website</a>, which are very useful.</p>
     <p><a href="https://youtu.be/TbcEqkabAWU?si=9-3lGV_VgnrhxgDF">Link</a></p>
   </li>
+  <li><h3>Course of Pandas 📊</h3>
+    <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
+    <img src="https://img.shields.io/badge/Pandas-black?logo=Pandas">
+    <p></p>
+    <p><a href="https://app.datacamp.com/learn/courses/data-manipulation-with-pandas">Link</a></p>
+    
+  </li>
+  
 </ul>
