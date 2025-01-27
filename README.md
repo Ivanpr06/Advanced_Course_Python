@@ -17,7 +17,8 @@
     <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
     <img src="https://img.shields.io/badge/Pandas-black?logo=Pandas">
     <p></p>
-    <p><a href="https://www.datacamp.com/courses/data-manipulation-with-pandas?utm_source=google&utm_medium=paid_search&utm_campaignid=21079800901&utm_adgroupid=162386453209&utm_device=c&utm_keyword=pandas%20course&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=725983085265&utm_targetid=kwd-303144560159&utm_loc_interest_ms=&utm_loc_physical_ms=9198006&utm_content=tech~python~pandas&utm_campaign=240311_1-sea~tech~python_2-b2c_3-es-lang-en_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-jan25&gad_source=1&gclid=Cj0KCQiA19e8BhCVARIsALpFMgEE6zoZhsUFp5ZeWfAOT4xCGEq6wAqbrjLsFkgA8lv_IN5DCg85jdAaAgymEALw_wcB">Link</a></p>
+    <p><a href="https://www.youtube.com/playlist?list=PLVs9JdE6ZZh0RBT7lIPxUkcTmAUhMEimn">Link</a></p>
+    <p><a href="https://www.youtube.com/watch?v=wUSDVGivd-8">Link</a></p>
     
   </li>
   
