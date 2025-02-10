@@ -22,13 +22,14 @@ def grafica_tiempo_trabajado():
     # Contar.index accede a los valores
     plt.plot(contar.index, contar)
     plt.show()
-
+#grafica_tiempo_trabajado()
 
 def uso_de_series():
     serie = pd.Series([10, 20, 30, 40, 50], index=["a", "b", "c", "d", "e"])
     index = serie.index
     values = serie.values
     print(serie)
+#uso_de_series()
 
 def grafico_cantidad_trabajadores():
     job_counts = df.job_title_short.value_counts()
@@ -43,4 +44,4 @@ def grafico_cantidad_trabajadores():
     plt.xlabel("Job Title")
     plt.xticks(rotation=45, ha="right")
     plt.show()
-grafico_cantidad_trabajadores()
+#grafico_cantidad_trabajadores()

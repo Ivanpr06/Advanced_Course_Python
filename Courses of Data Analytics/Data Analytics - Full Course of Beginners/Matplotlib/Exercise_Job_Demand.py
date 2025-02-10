@@ -22,7 +22,7 @@ df_US_pivot["month_no"] = pd.to_datetime(df_US_pivot["job_posted_month"], format
 df_US_pivot.sort_values("month_no", inplace=True)
 df_US_pivot.set_index("job_posted_month", inplace=True)
 df_US_pivot.drop(columns="month_no", inplace=True)
-print(df_US_pivot)
+#print(df_US_pivot)
 
 # Filtramos por el top 3
 top_3 = df_US["job_title_short"].value_counts().head(3)

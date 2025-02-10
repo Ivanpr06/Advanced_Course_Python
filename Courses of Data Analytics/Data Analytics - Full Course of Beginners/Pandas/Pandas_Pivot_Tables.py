@@ -31,3 +31,4 @@ def grafica_paises_mas_trabajo_y_salario_medio():
     plt.title("Salario Medio Por Paises Con Más Trabajo")
     plt.xticks(rotation=45, ha="right")
     plt.show()
+#grafica_paises_mas_trabajo_y_salario_medio()
