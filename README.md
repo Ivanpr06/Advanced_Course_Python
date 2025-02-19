@@ -16,6 +16,8 @@
   <li><h3>Course of Pandas 📊</h3>
     <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
     <img src="https://img.shields.io/badge/Pandas-black?logo=Pandas">
+    <img src="https://img.shields.io/badge/Seaborn-green">
+    <img src="https://img.shields.io/badge/Matplotlib%20-%20white?logo=Matplotlib&color=blue">
     <p></p>
     <p><a href="https://www.youtube.com/playlist?list=PLVs9JdE6ZZh0RBT7lIPxUkcTmAUhMEimn">Link</a></p>
     <p><a href="https://www.youtube.com/watch?v=wUSDVGivd-8">Link</a></p>
